@@ -29,6 +29,10 @@ The project focuses on understanding how mobile navigation works in React Native
 
 ---
 
+- **Demo (Expo):** https://expo.dev/accounts/ggsaavedra/projects/navigation-app
+
+---
+
 ## 📦 Getting Started
 
 ### 1. Clonar el repositorio
