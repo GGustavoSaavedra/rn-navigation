@@ -23,8 +23,8 @@ The project focuses on understanding how mobile navigation works in React Native
 - **React Native**
 - **Expo**
 - **React Navigation**
-- **TypeScript** (si tu repo lo usa)
-- **NativeWind / Tailwind CSS for RN** (si lo estás usando)
+- **TypeScript**
+- **NativeWind**
 - Hooks de React
 
 ---
